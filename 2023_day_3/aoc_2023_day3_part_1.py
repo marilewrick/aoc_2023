@@ -69,8 +69,6 @@ def check_for_symbol(idx_row, idx_col):
 	return False
 
 
-
-
 with open('./input.txt', 'r') as file:
 	puzzle = []
 	result = 0
